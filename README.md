@@ -34,7 +34,8 @@ Run:
 
 ```bash
 python task1_auth.py
-## Task 2 - SIEM Lite
+
+**## Task 2 - SIEM Lite**
 
 Features:
 
@@ -47,7 +48,7 @@ Run:
 
 python task2_siem.py 3
 
-## Task 3 - Malware Analysis
+**## Task 3 - Malware Analysis**
 
 Features:
 
